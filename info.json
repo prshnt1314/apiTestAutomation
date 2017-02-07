@@ -1,0 +1,12 @@
+{
+	"id": 334569,
+	"name": "Prashant Kumar",
+	"permanent": true,
+	"address": {
+		"street": "#97, 2nd floor",
+		"city": "Bangalore",
+		"zipcode": "560037"
+	},
+	"phoneNumber": "1234569789",
+	"role": "Autmation Engineer"
+}
